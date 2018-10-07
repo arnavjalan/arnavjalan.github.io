@@ -1,0 +1,108 @@
+/* Custom Stylesheet */
+/**
+ * Use this file to override Materialize files so you can update
+ * the core Materialize files in the future
+ *
+ * Made By MaterializeCSS.com
+ */
+
+.icon-block {
+  padding: 0 15px;
+}
+.icon-block .material-icons {
+	font-size: inherit;
+}
+
+#landing.parallax-container {
+      height: 720px;
+}
+
+#Navigation {
+    font-family: "Times New Roman",Times, serif;
+}
+
+.brand-logo {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65px;
+}
+
+#landing-name {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 65px;
+}
+
+p {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 20px;
+}
+
+#view-sketches.parallax-container {
+      height: 400px;
+}
+
+.navigator1 {
+    background-image: url("../images/coursework.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navigator2 {
+    background-image: url("../images/project.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.navigator3 {
+    background-image: url("../images/artmat.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.project1 {
+    background-image: url("../images/blur.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.project2 {
+    background-image: url("../images/tictactoe.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+p.footerContent {
+
+    font-size: 15px;
+}
+
+p.navi {
+
+    font-size: 15px;
+}
+
+p.course-content {
+
+    font-size: 15px;
+}
+
+p.project-content {
+
+    font-size: 15px;
+}
+
+#coursework.parallax-container {
+      height: 720px;
+}
+
+#sketches.parallax-container {
+      height: 720px;
+}
+
+.mediapage-text {
+    font-family: "Times New Roman", Times, serif;
+    font-size: 15px;
+}
+
+#landing-aboutme.parallax-container {
+    height: 720px;
+}
